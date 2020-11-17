@@ -1,0 +1,13 @@
+{
+	"discord": {
+		"token": "", // Discord Application Token
+		"guild": "", // Discord Guild which Bot Operates In
+		"id": ""     // Discord Bot ID 
+	},
+	"web": {
+		"port": 8080,
+		"username": "admin",
+		"password": "password",
+		"secret": "abc123"
+	}
+}
