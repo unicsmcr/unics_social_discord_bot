@@ -7,7 +7,7 @@
     "build": "tsc",
     "lint": "eslint src --ext .ts",
     "lint:fix": "eslint src --ext .ts --fix",
-    "test": "jest --coverage",
+    "test": "jest --coverage --passWithNoTests",
     "start": "ts-node src/app"
   },
   "repository": {
