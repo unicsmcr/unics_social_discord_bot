@@ -1,4 +1,4 @@
-import * as Mongoose from "mongoose";
+import * as Mongoose from 'mongoose';
 
 export const EventSchema = new Mongoose.Schema({
 	name: { type: String },
