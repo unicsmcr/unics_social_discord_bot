@@ -1,0 +1,13 @@
+{
+	"discord": {
+		"token": "",
+		"guild": "",
+		"id": ""
+	},
+	"web": {
+		"port": 8080,
+		"username": "admin",
+		"password": "password",
+		"secret": "abc123"
+	}
+}
